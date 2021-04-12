@@ -1,6 +1,31 @@
 {
-  "name": "OLSKPithServer",
+  "name": "OLSKPithVitrine",
   "dependencies": {
-    "// I sacrifice myself for the commas of others": null    
+    "// SHARED": null,
+  	"OLSKWording": "olsk/OLSKWording",
+
+    "// TOOLBAR": null,
+  	"OLSKCrown": "olsk/OLSKCrown",
+  	"OLSKLanguageSwitcher": "olsk/OLSKLanguageSwitcher",
+
+    "// LANDING": null,
+  	"OLSKLanding": "olsk/OLSKLanding",
+
+    "// FEATURES": null,
+  	"OLSKFeatureList": "olsk/OLSKFeatureList",
+    "OLSKAppFeatureList": "olsk/OLSKAppFeatureList",
+
+  	"// GAZETTE": null,
+  	"OLSKGazette": "olsk/OLSKGazette",
+
+  	"// LINKS": null,
+  	"ROCORootLink": "rationalcreative/ROCORootLink",
+  	"SWARLink": "0dataapp/SWARLink",
+
+  	"// STYLE": null,
+  	"normalize.css": "latest",
+  	"OLSKDecor": "olsk/OLSKDecor",
+
+    "// I sacrifice myself for the commas of others": null
   }
 }
