@@ -15,8 +15,9 @@
   	"OLSKFeatureList": "olsk/OLSKFeatureList",
     "OLSKAppFeatureList": "olsk/OLSKAppFeatureList",
 
-  	"// GAZETTE": null,
-  	"OLSKGazette": "olsk/OLSKGazette",
+  	"// UPDATES": null,
+  	"OLSKFollow": "olsk/OLSKFollow",
+    "OLSKGazette": "olsk/OLSKGazette",
 
   	"// LINKS": null,
   	"ROCORootLink": "rationalcreative/ROCORootLink",
