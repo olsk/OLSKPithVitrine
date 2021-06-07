@@ -15,7 +15,10 @@
   	"OLSKFeatureList": "olsk/OLSKFeatureList",
     "OLSKAppFeatureList": "olsk/OLSKAppFeatureList",
 
-  	"// UPDATES": null,
+  	"// CONTRIBUTIONS": null,
+    "OLSKJar": "olsk/OLSKJar",
+
+    "// UPDATES": null,
   	"OLSKFollow": "olsk/OLSKFollow",
     "OLSKGazette": "olsk/OLSKGazette",
     "ROCOForum": "rationalcreative/ROCOForum",
