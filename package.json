@@ -14,6 +14,7 @@
     "// FEATURES": null,
   	"OLSKFeatureList": "olsk/OLSKFeatureList",
     "OLSKAppFeatureList": "olsk/OLSKAppFeatureList",
+    "ROCOGlossary": "rationalcreative/ROCOGlossary",
 
   	"// CONTRIBUTIONS": null,
     "OLSKEdit": "olsk/OLSKEdit",
