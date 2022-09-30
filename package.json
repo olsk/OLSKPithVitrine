@@ -1,35 +1,35 @@
 {
   "name": "OLSKPithVitrine",
   "dependencies": {
-    "// SHARED": null,
+    "//": "SHARED",
   	"OLSKWording": "olsk/OLSKWording",
 
-    "// TOOLBAR": null,
+    "//": "TOOLBAR",
   	"OLSKCrown": "olsk/OLSKCrown",
   	"OLSKLanguageSwitcher": "olsk/OLSKLanguageSwitcher",
 
-    "// LANDING": null,
+    "//": "LANDING",
   	"OLSKLanding": "olsk/OLSKLanding",
 
-    "// FEATURES": null,
+    "//": "FEATURES",
   	"OLSKFeatureList": "olsk/OLSKFeatureList",
     "OLSKAppFeatureList": "olsk/OLSKAppFeatureList",
     "ROCOGlossary": "rationalcreative/ROCOGlossary",
 
-  	"// CONTRIBUTIONS": null,
+  	"//": "CONTRIBUTIONS",
     "OLSKEdit": "olsk/OLSKEdit",
     "OLSKJar": "olsk/OLSKJar",
 
-    "// UPDATES": null,
+    "//": "UPDATES",
     "ROCOGazette": "rationalcreative/ROCOGazette",
     "OLSKBanner": "olsk/OLSKBanner",
 
-  	"// LINKS": null,
+  	"//": "LINKS",
     "ROCOEphemerataLink": "rationalcreative/ROCOEphemerataLink",
   	"SWARLink": "0dataapp/SWARLink",
   	"ROCORootLink": "rationalcreative/ROCORootLink",
 
-  	"// STYLE": null,
+  	"//": "STYLE",
   	"normalize.css": "latest",
   	"OLSKDecor": "olsk/OLSKDecor",
 
