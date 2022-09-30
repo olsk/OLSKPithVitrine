@@ -31,8 +31,6 @@
 
   	"//": "STYLE",
   	"normalize.css": "latest",
-  	"OLSKDecor": "olsk/OLSKDecor",
-
-    "//": "I sacrifice myself for the commas of others"
+  	"OLSKDecor": "olsk/OLSKDecor"
   }
 }
